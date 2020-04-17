@@ -1,0 +1,2 @@
+rootProject.name='My Activity Lifecycle Logger - Spr 20'
+include ':app'
